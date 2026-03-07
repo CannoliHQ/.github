@@ -4,10 +4,8 @@
 
 # cannoli_OS
 
-**A no-frills retro gaming launcher for Android handhelds.**
+**An opinionated setup to Retro Gaming on Android*
 
 No long setup guides. No decision fatigue. No endless tinkering.
-
-Copy your games. Launch. Play.
 
 </div>
