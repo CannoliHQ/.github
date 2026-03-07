@@ -4,11 +4,9 @@
 
 # cannoli_OS
 
-**Play Some Damn Games.**
+**A no-frills retro gaming launcher for Android handhelds.**
 
-A no-frills retro gaming launcher for Android handhelds.
-
-No setup guides. No decision fatigue. No bloat.
+No long setup guides. No decision fatigue. No endless tinkering.
 
 Copy your games. Launch. Play.
 
