@@ -4,8 +4,6 @@
 
 # cannoli_OS
 
-**An opinionated setup to Retro Gaming on Android**
-
-No long setup guides. No decision fatigue. No endless tinkering.
+**Sweet and Opinionated Retro Gaming on Android**
 
 </div>
